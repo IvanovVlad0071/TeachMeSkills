@@ -1,0 +1,11 @@
+{
+  "name": "home_work4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw4_14.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}

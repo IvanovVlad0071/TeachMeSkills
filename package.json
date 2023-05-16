@@ -1,0 +1,19 @@
+{
+  "name": "lesson_3_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node task_13.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanovVlad0071/TeachMeSkills.git"
+  },
+  "author": "Ivanov_Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanovVlad0071/TeachMeSkills/issues"
+  },
+  "homepage": "https://github.com/IvanovVlad0071/TeachMeSkills#readme"
+}

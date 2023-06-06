@@ -1,0 +1,12 @@
+{
+  "name": "home_work_8_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw10_3.ts",
+    "js-run": " node hw_10.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
